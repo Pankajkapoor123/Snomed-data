@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "on6N6qfRT0BloVRsQHZWhEj4XtbJIFvFrW0RrKl2Ho0=",
+  "Source": "SnomedData",
+  "BasePath": "_content/SnomedData",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

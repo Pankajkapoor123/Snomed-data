@@ -1,0 +1,6 @@
+@SnomedData_HostAddress = http://localhost:5099
+
+GET {{SnomedData_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
